@@ -1,7 +1,7 @@
 # Bem vindo(a) ao meu perfil!
 
 Olá, eu sou Bruno Oliveira, desenvolvedor front end!
-Usando a tecnologia aa minha maneira de mudar o mundo.
+Usando a tecnologia a minha maneira de mudar o mundo.
 
 - 🌵100% brasileiro 
 - 🍁Morando no Canadá
