@@ -1,23 +1,27 @@
 # Bem vindo(a) ao meu perfil!
 
-Olá, eu sou Bruno Oliveira
+Olá, eu sou Bruno Oliveira, desenvolvedor front end!
+Usando a tecnologia aa minha maneira de mudar o mundo.
 
-## Meus hobbies
-- jogar vídeo game
-- cozinhar 
-- assistir animes, filmes e series
+- 🌵100% brasileiro 
+- 🍁Morando no Canadá
+- 💡Social media
+- 🌱Green skill
+- 📊Soft skill
 
-## Atualmente estudando 
-- HTML e CSS 
-- Front-end
-- Acessibilidade Web
-- Git e GitHub
-- Javascipt e TypeScript
 
-## Meus contatos
-
-- Twitter @bruno_o1i
-- GitHub @bruno-deoliveira
+## Tecnologias que uso no meu dia 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Bruno-Ts" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+ 
+##
+</div>
+          
 
 <div align="center">
   <a href="https://github.com/bruno-deoliveira">
@@ -25,17 +29,14 @@ Olá, eu sou Bruno Oliveira
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-deoliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-##
 
 <div> 
+  <a href = "https://www.linkedin.com/in/bruno-almeida-319155259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://instagram.com/brunoliveira0805" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunoalmeida0805@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunoalmeida0805@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "https://www.facebook.com/brunoliveira0805/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+ </a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
